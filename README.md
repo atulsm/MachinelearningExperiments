@@ -5,3 +5,6 @@ This site also contains some nice tutorials.
 
 This also contains info from https://www.dataquest.io which i have subscribed.
 
+Lots of useful examples in https://github.com/zekelabs/machine-learning-for-beginners
+
+
