@@ -28,6 +28,8 @@ wheels/
 .idea/
 venv/
 
+tslogs/
+
 
 MANIFEST
 
